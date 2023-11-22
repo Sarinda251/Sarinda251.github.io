@@ -21,4 +21,4 @@ My research advisor is [Dr. Mubarak Shah](https://www.crcv.ucf.edu/person/mubara
 
 I am currently working in continual/class-incremental learning, but I am also interested in cross-domain few-shot learning and explainable AI!
 
-I received my B.Sc in Computer Science and Mathematics from the University of Central Florida in 2024. I also was a member of the UCF Programming Team, placing 2nd in the Mercer Spring Programming Contest under team UCF Requiem.
+I received my B.Sc in Computer Science and Mathematics from the University of Central Florida in 2021. I also was a member of the UCF Programming Team, placing 2nd in the Mercer Spring Programming Contest under team UCF Requiem.
