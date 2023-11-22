@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[Paper](https://sarinda251.github.io/CDFSL-V-site/) accepted at ICCV 2023
+[Paper](https://sarinda251.github.io/CDFSL-V-site/) accepted at [ICCV 2023](https://iccv2023.thecvf.com/)
