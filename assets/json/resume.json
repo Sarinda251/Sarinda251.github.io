@@ -45,6 +45,16 @@
             "score": "",
             "url": "",
             "courses": []
+        },
+        {
+            "institution": "Stanford University",
+            "area": "Mathematics",
+            "studyType": "High School Summer College",
+            "startDate": "5.2016",
+            "endDate": "8.2016",
+            "score": "",
+            "url": "",
+            "courses": ["Linear Algebra", "Multivariable Calculus"]
         }
     ],
     "awards": [],
