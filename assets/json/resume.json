@@ -18,7 +18,7 @@
     "volunteer": [],
     "education": [
         {
-            "institution": "University of Central Florida, Orlando, Florida",
+            "institution": "University of Central Florida",
             "area": "Computer Science",
             "studyType": "Ph.D.",
             "startDate": "8.2021",
@@ -27,7 +27,7 @@
             "courses": []
         },
         {
-            "institution": "University of Central Florida, Orlando, Florida",
+            "institution": "University of Central Florida",
             "area": "Computer Science",
             "studyType": "B.Sc",
             "startDate": "8.2017",
@@ -37,7 +37,7 @@
             "courses": []
         },
         {
-            "institution": "University of Central Florida, Orlando, Florida",
+            "institution": "University of Central Florida",
             "area": "Mathematics",
             "studyType": "B.Sc",
             "startDate": "8.2017",
