@@ -48,16 +48,19 @@
   "certificates": [],
   "publications": [
     {
-      "title": "CDFSL-V: Cross-Domain Few-Shot Learning for Videos",
-      "conference": "ICCV 2023",
+      "name": "CDFSL-V: Cross-Domain Few-Shot Learning for Videos",
+      "publisher": "ICCV 2023",
+      "summary": "",
       "authors": "Sarinda Samarasinghe, Mamshad Nayeem Rizve, Navid Kardan, and Mubarak Shah"
     }
   ],
   "skills": [
     {
-      "programming languages": "Python, Java, C/C++, R, ROS",
-      "libraries": "Pytorch, Tensorflow/Keras",
-      "operating systems": "Windows, Linux"
+      "keywords": [
+        "programming languages": "Python, Java, C/C++, R, ROS",
+        "libraries": "Pytorch, Tensorflow/Keras",
+        "operating systems": "Windows, Linux"'
+      ]
     }
   ],
   "languages": [],
@@ -66,12 +69,14 @@
   "projects": [
     {
       "name": "Hidden Aactivity Signal and Trajectory Anomaly Characterization (HAYSTAC) by IARPA",
-      "description": "Worked on anomalous trajectory insertion and anomalous trajectory detection.",
+      "summary": "Worked on anomalous trajectory insertion and anomalous trajectory detection.",
+      "url": "https://www.iarpa.gov/research-programs/haystac"
       "startDate": "2023"
     },
     {
       "name": "Biometric Recognition and Identification at Altitude and Range (BRIAR) by IARPA",
-      "description": "Worked on cross-domain few-shot learning for training on ground camera videos and testing on drone videos. Also worked on feature fusion for multiple retrieval methods.",
+      "summary": "Worked on cross-domain few-shot learning for training on ground camera videos and testing on drone videos. Also worked on feature fusion for multiple retrieval methods.",
+      "url": "https://www.iarpa.gov/research-programs/briar"
       "startDate": "2022",
       "endDate": "2023"
     }
