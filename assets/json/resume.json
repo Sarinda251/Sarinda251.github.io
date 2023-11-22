@@ -21,7 +21,7 @@
             "institution": "University of Central Florida, Orlando, Florida",
             "area": "Computer Science",
             "studyType": "Ph.D.",
-            "startDate": "2021",
+            "startDate": "8.2021",
             "score": "",
             "url": "",
             "courses": []
@@ -30,8 +30,8 @@
             "institution": "University of Central Florida, Orlando, Florida",
             "area": "Computer Science",
             "studyType": "B.Sc",
-            "startDate": "2017",
-            "endDate": "2021",
+            "startDate": "8.2017",
+            "endDate": "5.2021",
             "score": "",
             "url": "",
             "courses": []
@@ -40,8 +40,8 @@
             "institution": "University of Central Florida, Orlando, Florida",
             "area": "Mathematics",
             "studyType": "B.Sc",
-            "startDate": "2017",
-            "endDate": "2021",
+            "startDate": "8.2017",
+            "endDate": "5.2021",
             "score": "",
             "url": "",
             "courses": []
@@ -55,6 +55,7 @@
             "publisher": "ICCV 2023",
             "summary": "",
             "url": "https://sarinda251.github.io/CDFSL-V-site/",
+            "releaseDate": "10.2023",
             "authors": "Sarinda Samarasinghe, Mamshad Nayeem Rizve, Navid Kardan, and Mubarak Shah"
         }
     ],
