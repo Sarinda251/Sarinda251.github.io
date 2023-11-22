@@ -51,15 +51,16 @@
             "name": "CDFSL-V: Cross-Domain Few-Shot Learning for Videos",
             "publisher": "ICCV 2023",
             "summary": "",
+            "url": "https://sarinda251.github.io/CDFSL-V-site/",
             "authors": "Sarinda Samarasinghe, Mamshad Nayeem Rizve, Navid Kardan, and Mubarak Shah"
         }
     ],
     "skills": [
         {
             "keywords": {
-                "programming languages": "Python, Java, C/C++, R, ROS",
-                "libraries": "Pytorch, Tensorflow/Keras",
-                "operating systems": "Windows, Linux"
+                "Programming languages: ": "Python, Java, C/C++, R, ROS",
+                "Libraries: ": "Pytorch, Tensorflow/Keras",
+                "Operating systems: ": "Windows, Linux"
             }
         }
     ],
@@ -68,7 +69,7 @@
     "references": [],
     "projects": [
         {
-            "name": "Hidden Aactivity Signal and Trajectory Anomaly Characterization (HAYSTAC) by IARPA",
+            "name": "Hidden Activity Signal and Trajectory Anomaly Characterization (HAYSTAC) by IARPA",
             "summary": "Worked on anomalous trajectory insertion and anomalous trajectory detection.",
             "url": "https://www.iarpa.gov/research-programs/haystac",
             "startDate": "2023"
