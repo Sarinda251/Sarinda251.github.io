@@ -48,13 +48,13 @@
         },
         {
             "institution": "Stanford University",
-            "area": "Mathematics",
+            "area": "Mathematics/Computer Science",
             "studyType": "High School Summer College",
             "startDate": "5.2016",
             "endDate": "8.2016",
             "score": "",
             "url": "",
-            "courses": ["Linear Algebra and Multivariable Calculus"]
+            "courses": ["MATH 51 - Linear Algebra and Multivariable Calculus", "CS106A - Programming Methodology"]
         }
     ],
     "awards": [],
