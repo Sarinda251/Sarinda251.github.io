@@ -83,10 +83,16 @@
     "references": [],
     "projects": [
         {
+            "name": "Dataset Distillation in Videos by CISCO",
+            "summary": "Diffusion-based video dataset distillation method focusing on diverse and representative sample generation",
+            "startDate": "2024",
+        },
+        {
             "name": "Hidden Activity Signal and Trajectory Anomaly Characterization (HAYSTAC) by IARPA",
             "summary": "Worked on anomalous trajectory insertion and anomalous trajectory detection.",
             "url": "https://www.iarpa.gov/research-programs/haystac",
-            "startDate": "2023"
+            "startDate": "2023",
+            "endDate": "2024"
         },
         {
             "name": "Biometric Recognition and Identification at Altitude and Range (BRIAR) by IARPA",
