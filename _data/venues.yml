@@ -1,3 +1,7 @@
 "ICCV2023":
   url: https://iccv2023.thecvf.com/
   color: "#00369f"
+
+"ICCV2025MarineVision":
+  url: https://vap.aau.dk/marinevision/
+  color: "#00369f"
