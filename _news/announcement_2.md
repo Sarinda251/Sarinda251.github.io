@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[Workshop Paper](https://sarinda251.github.io/) accepted in [Joint Workshop on Marine Vision](https://vap.aau.dk/marinevision/call-for-papers/) at [ICCV 2025](https://iccv.thecvf.com/)
+[Workshop Paper](https://vap.aau.dk/marinevision/wp-content/uploads/sites/9/2025/10/14_Weakly_Supervised_MaxN_Estimation_in_Baited_Remote_Underwater_Videos-scaled.png) accepted in [Joint Workshop on Marine Vision](https://vap.aau.dk/marinevision/papers/) at [ICCV 2025](https://iccv.thecvf.com/)

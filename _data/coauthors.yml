@@ -26,9 +26,21 @@
     url: http://www.perceivelab.com/team
 
 "Sorrenti":
-  - firstname: ["Amelia", "A"]
+  - firstname: ["Amelia", "A."]
     url: http://www.perceivelab.com/team
 
 "Palazzo":
-  - firstname: ["Simone", "S"]
+  - firstname: ["Simone", "S."]
+    url: http://www.perceivelab.com/team
+
+"Carnemolla":
+  - firstname: ["Simone", "S."]
+    url: http://www.perceivelab.com/team
+
+"Pennisi":
+  - firstname: ["Matteo", "M."]
+    url: http://www.perceivelab.com/team
+
+"Giordano":
+  - firstname: ["Daniela", "D."]
     url: http://www.perceivelab.com/team
