@@ -61,6 +61,14 @@
     "certificates": [],
     "publications": [
         {
+            "name": "DEXTER: Diffusion-Guided EXplanations with TExtual Reasoning for Vision Models",
+            "publisher": "NeurIPS 2025",
+            "summary": "",
+            "url": "https://neurips.cc/virtual/2025/poster/117167",
+            "releaseDate": "9.2025",
+            "authors": "Simone Carnemolla, Matteo Pennisi, Sarinda Samarasinghe, Giovanni Bellitto, Simone Palazzo, Daniela Giordano, Mubarak Shah, Concetto Spampinato"
+        },
+        {
             "name": "CDFSL-V: Cross-Domain Few-Shot Learning for Videos",
             "publisher": "ICCV 2023",
             "summary": "",
@@ -83,9 +91,15 @@
     "references": [],
     "projects": [
         {
+            "name": "Visual and nOise-eNhanced AI Analysis for Marine Biodiversity MonitorinG, Observation and LeArning (VONGOLA)",
+            "summary": "Marine life object detection and MaxN estimation with weak supervision",
+            "startDate": "2025"
+        },
+        {
             "name": "Dataset Distillation in Videos by CISCO",
             "summary": "Diffusion-based video dataset distillation method focusing on diverse and representative sample generation",
-            "startDate": "2024"
+            "startDate": "2024",
+            "endDate": "2025"
         },
         {
             "name": "Hidden Activity Signal and Trajectory Anomaly Characterization (HAYSTAC) by IARPA",
